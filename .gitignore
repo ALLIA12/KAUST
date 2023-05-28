@@ -4,3 +4,7 @@
 /mnist_test.tar.gz
 /mnist_train.csv
 /mnist_train.tar.gz
+.idea/misc.xml
+.idea/temp.iml
+*.xml
+*.iml
